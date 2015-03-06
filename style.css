@@ -116,7 +116,7 @@ a.facebook-header:hover, a.twitter-header:hover {
 	height:100px;
 	margin:0 auto;
 	padding:3px;
-	border:3px #e44d26 solid;
+	border:3px #0992FE solid;
 	-webkit-border-radius: 50px;
 	-moz-border-radius: 50px;
 	border-radius: 50px;
@@ -201,7 +201,7 @@ a.facebook-header:hover, a.twitter-header:hover {
 	margin:0 auto;
 	margin-top:15px;
 	padding: 12px 7px;
-	border:5px #e44d26 solid;
+	border:5px #0992FE solid;
 	-webkit-border-radius: 24px;
 	-moz-border-radius: 24px;
 	border-radius: 24px;
@@ -415,7 +415,7 @@ a.facebook-header:hover, a.twitter-header:hover {
 
 .page-subtitle span {
 	font-weight:700;
-	color:#e44d26 !important;
+	color:#0992FE !important;
 }
 
 .page-section {
@@ -619,7 +619,7 @@ h3.about-us-title {
 }
 
 .about:hover h3.about-us-title {
-	color:#e44d26 !important;
+	color:#0992FE !important;
    	-webkit-transition: all 0.4s ease-in-out;
    	-moz-transition: all 0.4s ease-in-out;
    	-o-transition: all 0.4s ease-in-out;
@@ -713,7 +713,7 @@ p.about-us-text {
 	float:left;
 	margin-top:10px;
 	padding:18px 20px 20px 20px;
-	background:#E44D26;
+	background:#0992FE;
 	-webkit-border-radius: 40px;
 	-moz-border-radius: 40px;
 	border-radius: 40px;
@@ -781,7 +781,7 @@ p.testimonial-signature {
 	font-size:22px;
 	line-height:28px;
 	text-transform:none;
-	color:#e44d26 !important;
+	color:#0992FE !important;
 	width:100%;
 	text-align:left;
 	padding:0;
@@ -840,7 +840,7 @@ h3.our-team-subtitle {
 	font-size:16px;
 	line-height:24px;
 	text-transform:none;
-	color:#e44d26 !important;
+	color:#0992FE !important;
 	width:100%;
 	text-align:center;
 	padding:0;
@@ -975,7 +975,7 @@ a.team-linkedin {
 }
 
 .team-member:hover h3.our-team-title {
-	color:#e44d26 !important;
+	color:#0992FE !important;
    	-webkit-transition: all 0.4s ease-in-out;
    	-moz-transition: all 0.4s ease-in-out;
    	-o-transition: all 0.4s ease-in-out;
@@ -1069,7 +1069,7 @@ p.by-numbers-text {
 
 p.by-numbers-text span {
 	font-weight:700;
-	color:#e44d26 !important;
+	color:#0992FE !important;
 	margin-right:10px;
 	margin-left:0;
    -webkit-transition: all 0.2s ease-in-out;
@@ -1156,7 +1156,7 @@ h3.services-title {
 }
 
 .services:hover h3.services-title {
-	color:#e44d26 !important;
+	color:#0992FE !important;
    -webkit-transition: all 0.4s ease-in-out;
    -moz-transition: all 0.4s ease-in-out;
    -o-transition: all 0.4s ease-in-out;
@@ -1176,7 +1176,7 @@ h3.services-title {
 }
 
 .services:hover .services-divider-top, .services:hover .services-divider-bottom {
-	background:#e44d26 !important;
+	background:#0992FE !important;
    -webkit-transition: all 0.4s ease-in-out;
    -moz-transition: all 0.4s ease-in-out;
    -o-transition: all 0.4s ease-in-out;
@@ -1343,7 +1343,7 @@ p.contact-text span {
 	font-weight:400;
 	font-size:16px;
 	margin-right:5px;
-	color:#e44d26;
+	color:#0992FE;
 }
 
 .submit-wide {
@@ -1366,12 +1366,12 @@ p.contact-text span {
 
 .hightlight {
 	background: #f4f4f4 url(images/icons/40px/157.png) no-repeat center right !important;
-	border:1px solid #e44d26 !important;
+	border:1px solid #0992FE !important;
 }
 
 .hightlight-message {
 	background: #f4f4f4 url(images/icons/40px/157.png) no-repeat top right !important;
-	border:1px solid #e44d26 !important;
+	border:1px solid #0992FE !important;
 }
 
 .done {
@@ -1592,7 +1592,7 @@ p.portfolio-categories {
 	font-size:16px;
 	line-height:28px;
 	text-transform:none;
-	color:#e44d26 !important;
+	color:#0992FE !important;
 	width:100%;
 	text-align:center;
 	padding:0;
@@ -1613,7 +1613,7 @@ p.portfolio-categories {
 
 .portfolio-item:hover .portfolio-details {
 	width:100%;
-	background:#e44d26;
+	background:#0992FE;
    -webkit-transition: all 0.4s ease-in-out;
    -moz-transition: all 0.4s ease-in-out;
    -o-transition: all 0.4s ease-in-out;
@@ -1717,7 +1717,7 @@ h3.single-project-title {
 	font-size:28px;
 	line-height:36px;
 	text-transform:none;
-	color:#e44d26 !important;
+	color:#0992FE !important;
 	text-align:left;
 	padding:0;
 	margin:0;
@@ -1751,12 +1751,12 @@ p.single-project-details {
 
 p.single-project-details span {
 	font-weight:700;
-	color:#e44d26 !important;
+	color:#0992FE !important;
 }
 
 p.single-project-details span.category, p.single-project-details span.tags {
 	font-weight:700;
-	color:#e44d26 !important;
+	color:#0992FE !important;
 	border-left:1px solid #ccc;
 	padding-left:20px;
 	margin-left:20px;
@@ -1899,7 +1899,7 @@ p.single-project-content {
 	font-size:16px;
 	line-height:16px;
 	text-transform:none;
-	color:#e44d26 !important;
+	color:#0992FE !important;
 	text-align:left;
 	background:#fff;
 	top:150px;
@@ -1973,7 +1973,7 @@ h3.news-title a {
 }
 
 .news-item:hover h3.news-title a {
-	color:#e44d26 !important;
+	color:#0992FE !important;
    	-webkit-transition: all 0.4s ease-in-out;
    	-moz-transition: all 0.4s ease-in-out;
    	-o-transition: all 0.4s ease-in-out;
@@ -2082,7 +2082,7 @@ a.news-link {
 }
 
 .tweet:hover .tweet-content {
-	border:1px solid #e44d26;
+	border:1px solid #0992FE;
    	-webkit-transition: all 0.4s ease-in-out;
    	-moz-transition: all 0.4s ease-in-out;
    	-o-transition: all 0.4s ease-in-out;
@@ -2091,7 +2091,7 @@ a.news-link {
 }
 
 .tweet-content a {
-	color: #e44d26;
+	color: #0992FE;
 	text-decoration: none;
 	line-height: inherit;
 	cursor: pointer;
@@ -2140,7 +2140,7 @@ h3.single-news-title {
 	font-size:28px;
 	line-height:36px;
 	text-transform:none;
-	color:#e44d26 !important;
+	color:#0992FE !important;
 	text-align:left;
 	padding:0;
 	margin:0;
@@ -2174,12 +2174,12 @@ p.single-news-details {
 
 p.single-news-details span {
 	font-weight:700;
-	color:#e44d26 !important;
+	color:#0992FE !important;
 }
 
 p.single-news-details span.category, p.single-news-details span.tags {
 	font-weight:700;
-	color:#e44d26 !important;
+	color:#0992FE !important;
 	border-left:1px solid #ccc;
 	padding-left:20px;
 	margin-left:20px;
@@ -2978,7 +2978,7 @@ p.footer-right {
 		margin-right:10px;
 		margin-top:0px;
 		text-indent:-9999px;
-		border:2px solid #e44d26;
+		border:2px solid #0992FE;
 		-webkit-border-radius: 20px;
 		-moz-border-radius: 20px;
 		border-radius: 20px;
@@ -2996,7 +2996,7 @@ p.footer-right {
 		margin-right:10px;
 		margin-top:0px;
 		text-indent:-9999px;
-		border:2px solid #e44d26;
+		border:2px solid #0992FE;
 		-webkit-border-radius: 20px;
 		-moz-border-radius: 20px;
 		border-radius: 20px;
@@ -3013,7 +3013,7 @@ p.footer-right {
 		margin-right:0px;
 		margin-top:0px;
 		text-indent:-9999px;
-		border:2px solid #e44d26;
+		border:2px solid #0992FE;
 		-webkit-border-radius: 20px;
 		-moz-border-radius: 20px;
 		border-radius: 20px;
@@ -3054,7 +3054,7 @@ p.footer-right {
 		font-size:16px;
 		line-height:16px;
 		text-transform:none;
-		color:#e44d26 !important;
+		color:#0992FE !important;
 		text-align:left;
 		background:#fff;
 		top:150px;
@@ -3207,7 +3207,7 @@ p.footer-right {
 	
 	p.by-numbers-text span {
 		font-weight:700;
-		color:#e44d26 !important;
+		color:#0992FE !important;
 		margin-right:10px;
 		margin-left:0;
 	   -webkit-transition: all 0.2s ease-in-out;
@@ -3237,7 +3237,7 @@ p.footer-right {
 		font-size:20px;
 		line-height:20px;
 		text-transform:none;
-		color:#e44d26 !important;
+		color:#0992FE !important;
 		width:auto;
 		text-align:center !important;
 		padding:0;
@@ -3599,7 +3599,7 @@ p.footer-right {
 		height:100px;
 		margin:0 auto;
 		padding:3px;
-		border:3px #e44d26 solid;
+		border:3px #0992FE solid;
 		-webkit-border-radius: 50px;
 		-moz-border-radius: 50px;
 		border-radius: 50px;
@@ -3684,7 +3684,7 @@ p.footer-right {
 		margin:0 auto;
 		margin-top:15px;
 		padding: 12px 7px;
-		border:5px #e44d26 solid;
+		border:5px #0992FE solid;
 		-webkit-border-radius: 24px;
 		-moz-border-radius: 24px;
 		border-radius: 24px;
