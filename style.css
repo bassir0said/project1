@@ -261,7 +261,7 @@ a.facebook-header:hover, a.twitter-header:hover {
 	background:#000 url(images/parallax/6.jpg) 50% 0 no-repeat fixed;
 }
 
-.quote1-pattern, .quote2-pattern, .quote3-pattern, .quote4-pattern, .quote5-patter, .quote6-pattern {
+.quote1-pattern, .quote2-pattern, .quote3-pattern, .quote4-pattern, .quote5-pattern, .quote6-pattern {
 	width:100%;
 	height:500px;
 	margin:0 auto;
@@ -271,17 +271,34 @@ a.facebook-header:hover, a.twitter-header:hover {
 	z-index:10;
 }
 
-.quote1-pattern, .quote4-pattern {
+.quote1-pattern {
 	background:url(images/parallax/pattern-1.png);
 	background-color: rgba(2,146,244,0.6);
 }
 
-.quote2-pattern, .quote4-pattern {
+.quote2-pattern {
 	background:url(images/parallax/pattern-1.png);
+	background-color: rgba(237,2,86,0.6);
 }
 
-.quote3-pattern, .quote6-pattern {
+.quote3-pattern {
 	background:url(images/parallax/pattern-1.png);
+	background-color: rgba(252,114,0,0.6);
+}
+
+.quote4-pattern {
+	background:url(images/parallax/pattern-1.png);
+	background-color: rgba(111,35,255,0.6);
+}
+
+.quote5-pattern {
+	background:url(images/parallax/pattern-1.png);
+	background-color: rgba(255,190,28,0.6);
+}
+
+.quote6-pattern {
+	background:url(images/parallax/pattern-1.png);
+	background-color: rgba(0,208,70,0.6);
 }
 
 .parallax-container {
